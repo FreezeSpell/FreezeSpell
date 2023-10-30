@@ -1,6 +1,5 @@
-Hello! I am @FreezeSpell
-I mess around with data scraping and machine learning, but still learning myself :)
+Hiya!
 
-Don't take most of my repositories too serious, they are mostly just me playing with things.
+My name is Bernd. I'm currently a student of Cognitive Science & Artificial Intelligence @ Tilburg University. I mostly use this Github for school and private purposes. I mess around with machine learning, but am still learning the very basics.
 
 
