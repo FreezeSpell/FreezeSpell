@@ -8,9 +8,10 @@ My fields of interest:
   - Game modding
 
 Some of my current ongoing projects:  
-  - #special-octo-barnacle --> A Kickstarter Scraper for analyzing campaigns  
-  - #rust-minus --> A Rust Discord Bot based on the #rustplusplus repo.  
-  - #buitengewoon-thuis --> A poor man's remodeling of a website.  
+  - #special-octo-barnacle --> A Kickstarter Scraper for analyzing campaigns.  
+  - #studious-giggle --> My Git equivalent of r/shitposting.  
+  - #buitengewoon-thuis --> A poor man's remodeling of a website.
+  - #OlivierBroekman/rust-raid-cost-calculator --> A webapp for Rust (the game) tools
   
 Besides technicals, I enjoy photography, video games, am very much a how-does-this-work kind of person, and possess a weirdly high number of random factoids.   
 \
