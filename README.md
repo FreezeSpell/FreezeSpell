@@ -18,8 +18,8 @@ Between all the projects that I did just to dabble in a certain field, I am curr
 
 ---
 <br>
-Besides technicals, I enjoy photography, video games, and am very much a how-does-this-work kind of person. Check out my photography work at @bernd.jpeg on Instagram!   
-\
+Besides technicals, I enjoy photography, video games, and am very much a how-does-this-work kind of person. Check out my photography work at @bernd.jpeg on Instagram!  
+<br>
 Questions, remarks or inquiries? Shoot me an email at berndvanruremonde@gmail.com!  
 
 Find me online:
