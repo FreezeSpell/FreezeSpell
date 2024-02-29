@@ -12,7 +12,7 @@ Between all the projects that I did just to dabble in a certain field, I am curr
 <br>
      
  &nbsp; &nbsp; [~/rust-tools/rust-tools](https://github.com/rust-tools/rust-tools) -> A website with tools for the game Rust <br>
- &nbsp; &nbsp; 
+ &nbsp; &nbsp; [~/kickscraper](https://github.com/FreezeSpell/kickscraper) -> A script that scrapes large Kickstarter Data files <br>
  &nbsp; &nbsp; 
 
 
