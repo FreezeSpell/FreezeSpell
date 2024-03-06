@@ -1,29 +1,69 @@
-Hiya!
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/145810474?v=4"  />
+</div>
 
-My name is Bernd. I'm currently a BSc. (Hons.) Student of Cognitive Science & Artificial Intelligence @ Tilburg University. I develop both in my free time and for school.
-My fields of interest include:  
-  - Machine Learning  
-  - Webdesign  
-  - Automation   
-  - Game modding
-<br>  
-<h2>Ongoing</h2>  
-Between all the projects that I did just to dabble in a certain field, I am currently working on a couple of main projects:  
-<br>
-     
- &nbsp; &nbsp; [~/rust-tools/rust-tools](https://github.com/rust-tools/rust-tools) -> A website with tools for the game Rust <br>
- &nbsp; &nbsp; [~/kickscraper](https://github.com/FreezeSpell/kickscraper) -> A script that scrapes large Kickstarter Data files <br>
- &nbsp; &nbsp; 
+###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/bernd-van-ruremonde-64b4161b3/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/22788538/bernd-van-ruremonde" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://codepen.io/FreezeSpell" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
+  </a>
+</div>
 
----
-<br>
-Besides technicals, I enjoy photography, video games, and am very much a how-does-this-work kind of person. Check out my photography work at @bernd.jpeg on Instagram!  
-<br>
-Questions, remarks or inquiries? Shoot me an email at berndvanruremonde@gmail.com!  
+###
 
-Find me online:
-<a href="https://stackoverflow.com/users/22788538/bernd-van-ruremonde">  
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-</a><a href="https://www.linkedin.com/in/bernd-van-ruremonde-64b4161b3/">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FreezeSpell.FreezeSpell&left_text=Profile%20Views"  />
+</div>
+
+###
+
+<h1 align="center">👋 Hey!</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Bernd.<br><br>- 🔭 I’m a student following BSc. CSAI (Hons.) @ Tilburg University<br>- 📚 I'm currently learning Python Machine Learning and C<br>- ⚡ In my free time I do photography and play video games</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=FreezeSpell&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/FreezeSpell/FreezeSpell/output/snake.svg" alt="Snake animation" />
+
+###
