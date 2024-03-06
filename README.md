@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/145810474?v=4"  />
-</div>
 
 ###
 
@@ -36,6 +33,14 @@
 
 ###
 
+<h3 align="left">📈  Current Projects</h3>
+
+###
+
+<p align="left"> -   rustTools => a website with useful tools for the game Rust. <br> -   kickscraper => A Python tool that allows the extraction of useful Kickstarter data.</p>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -64,6 +69,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/FreezeSpell/FreezeSpell/output/snake.svg" alt="Snake animation" />
 
-###
