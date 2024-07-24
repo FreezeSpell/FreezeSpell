@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Bernd.<br><br>- 🔭 I’m a student following BSc. CSAI (Hons.) @ Tilburg University<br>- 📚 I'm currently learning Python Machine Learning and C<br>- ⚡ In my free time I do photography and play video games</p>
+<p align="left">I'm Bernd.<br><br>- 🔭 I’m a student following BSc. Cognitive Science & Artificial Intelligence @ Tilburg University<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I do photography and play video games (mostly Rust :P)</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left"> -   rustTools => a website with useful tools for the game Rust. <br> -   kickscraper => A Python tool that allows the extraction of useful Kickstarter data.</p>
+<p align="left"> -   RustInt => a Python bot for the game Rust, integrating 2 different APIs. <br> -   rustplus => a modified version of the Rust+.py API, written to fit my specific needs. </p>
 
 ###
 
