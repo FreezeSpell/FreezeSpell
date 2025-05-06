@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Bernd.<br><br>- 🔭 I’m a student following BSc. Cognitive Science & Artificial Intelligence @ Tilburg University<br>- 📚 I'm currently learning Python and C++<br>- ⚡ In my free time I do photography and play video games</p>
+<p align="left">I'm Bernd.<br><br>- 🔭 I’m a student following BSc. Cognitive Science & Artificial Intelligence @ Tilburg University<br>- 📚 I'm currently learning Python and C++<br>- ⚡ In my free time I do photography and play video games. I'm also enjoying self-hosting a lot.</p>
 
 ###
 
