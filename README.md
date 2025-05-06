@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Bernd.<br><br>- 🔭 I’m a student following BSc. Cognitive Science & Artificial Intelligence @ Tilburg University<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I do photography and play video games (mostly Rust :P)</p>
+<p align="left">I'm Bernd.<br><br>- 🔭 I’m a student following BSc. Cognitive Science & Artificial Intelligence @ Tilburg University<br>- 📚 I'm currently learning Python and C++<br>- ⚡ In my free time I do photography and play video games</p>
 
 ###
 
@@ -22,11 +22,11 @@
 
 ###
 
-<p align="left"> -   RustInt => a Python bot for the game Rust, integrating 2 different APIs. <br> -   rustplus => a modified version of the Rust+.py API, written to fit my specific needs. </p>
+<p align="left"> -   Autonomous Systems => Fire extinguisher robot using Arduino <br> -   rustplus => a modified version of the Rust+.py API, written to fit my specific needs. </p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
