@@ -3,48 +3,20 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FreezeSpell.FreezeSpell&left_text=Profile%20Views"  />
 </div>
+Hi, I'm Bernd!
+
+I'm a Cognitive Science & AI student interested in how brains work, how machines learn, and where the two overlap.
+
+Right now, I'm exploring:
+- Computational neuroscience and language processing
+- Cognitive modeling and brain-inspired AI
+- Open-ended side projects that are fun or useful
+
+This GitHub is a mix of experiments, learning, and the occasional project I actually finish.
 
 ###
 
-<h1 align="center">👋 Hey!</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Bernd.<br><br>- 🔭 I’m a student following BSc. Cognitive Science & Artificial Intelligence @ Tilburg University<br>- 📚 I'm currently learning Python and C++<br>- ⚡ In my free time I do photography and play video games. I'm also enjoying self-hosting a lot.</p>
-
-###
-
-<h3 align="left">📈  Current Projects</h3>
-
-###
-
-<p align="left"> -   Autonomous Systems => Fire extinguisher robot using Arduino <br> -   rustplus => a modified version of the Rust+.py API, written to fit my specific needs. </p>
-
-###
-
-<h3 align="left">🛠 Languages and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<h3 align="left">🔌  Connect with me</h3>
+<h3 align="left">Connect with me</h3>
 
 ###
 
